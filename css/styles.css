@@ -51,3 +51,7 @@ a:hover {
 a:active {
   color: white;
 }
+
+img {
+  border: 2px solid darkslategray;
+}
