@@ -2,6 +2,10 @@ h1 {
   color: darkblue;
 }
 
+h2 {
+  line-height: 50px;
+}
+
 .epicodus {
   color: teal;
   font-family: Verdana;
