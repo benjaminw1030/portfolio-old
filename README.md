@@ -17,7 +17,7 @@ _You can also visit the page directly at https://benjaminw1030.github.io/portfol
 
 ## Known Bugs
 
-_There are no bugs on this simple webpage to my knowledge_
+_There are no bugs on this simple webpage to my knowledge._
 
 ## Support and contact details
 

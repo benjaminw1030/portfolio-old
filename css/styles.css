@@ -2,6 +2,10 @@ body {
   background-color: gray;
 }
 
+p {
+  color: lightgray;
+}
+
 h2 {
   line-height: 50px;
   color: lightgray;
@@ -18,7 +22,7 @@ h2 {
 
 .list {
   line-height: 25px;
-  color: lightgray;
+  color: lightgray
 }
 
 .list ol {
@@ -32,8 +36,6 @@ h2 {
 
 .hobbies {
   font-size: 16px;
-  line-height: 25px;
-  color: lightgray;
 }
 
 a:link {
@@ -53,5 +55,18 @@ a:active {
 }
 
 img {
-  border: 2px solid darkslategray;
+  border: 2px solid dimgray;
+}
+
+.jumbotron {
+  color: lightgray;
+  background-color: #3b3b3b;
+}
+
+.panel p {
+  color: black;
+}
+
+.quote {
+  float: right;
 }
