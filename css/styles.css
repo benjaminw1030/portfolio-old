@@ -1,5 +1,10 @@
+body {
+  background-color: gray;
+}
+
 h2 {
   line-height: 50px;
+  color: lightgray;
 }
 
 .epicodus {
@@ -13,6 +18,7 @@ h2 {
 
 .list {
   line-height: 25px;
+  color: lightgray;
 }
 
 .list ol {
@@ -27,4 +33,21 @@ h2 {
 .hobbies {
   font-size: 16px;
   line-height: 25px;
+  color: lightgray;
+}
+
+a:link {
+  color: lightseagreen;
+}
+
+a:visited {
+  color: limegreen;
+}
+
+a:hover {
+  color: greenyellow;
+}
+
+a:active {
+  color: white;
 }
